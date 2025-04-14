@@ -1,0 +1,46 @@
+body{
+  background-color: rgb(25, 25, 25);
+  color: white;
+  font-family: Arial;
+  justify-items: center;
+}
+.img-button{
+  height: 50px;
+}
+
+.img-move{
+  height: 35px;
+}
+
+.hand-button{
+  height: 130px;
+  width: 130px;
+  background-color: transparent;
+  border-radius: 100px;
+  border-color: white;
+  border-style: solid;
+  border-width: 3px;
+  margin-bottom: 30px;
+  margin-right: 10px;
+}
+
+.reset-button,.autoplay-button{
+  padding: 8px 16px 8px 16px;
+}
+
+.result{
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.result2{
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.score{
+  font-size: 16px;
+  margin-bottom: 20px;
+}
